@@ -1,3 +1,1 @@
-2021-12-08 11:10:37,493 [INFO] com.relationaldata.organisationdata.login.UserPrincipal [http-nio-8080-exec-5] you get username
-2021-12-08 11:10:42,444 [TRACE] com.relationaldata.organisationdata.employee.EmployeeController [http-nio-8080-exec-7] Retrieving all employees details
-2021-12-08 11:10:42,579 [INFO] com.relationaldata.organisationdata.login.UserPrincipal [http-nio-8080-exec-7] you get username
+2021-12-08 14:49:08,095 [INFO] com.relationaldata.organisationdata.login.UserPrincipal [http-nio-8080-exec-7] you get username
